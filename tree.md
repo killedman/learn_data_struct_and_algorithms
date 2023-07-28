@@ -36,3 +36,19 @@
 * 存储在p的右子树的键都大于k
 
 备注： 以上内容摘抄自书本《数据结构与算法python语言实现》第8章 树和第11章 搜索二叉树
+
+### 实战题目
+
+https://leetcode.cn/problems/validate-binary-search-tree/
+
+https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/
+
+
+# 二叉树的遍历
+
+* 前序遍历（Pre-order）： 根-左-右
+* 中序遍历（In-order）：左-根-右
+* 后序遍历（Post-order）：左-右-根
+
